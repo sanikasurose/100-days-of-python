@@ -5,4 +5,4 @@
 - Intro to functions
 - While loops
 - Code Indentation standards
-- project completed on external website
+- Created "Escape the Maze" - a project integrating all the above concepts into one program on an external wesbite
